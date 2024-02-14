@@ -38,3 +38,4 @@ In this 24 hours hackathon, I worked in collaboration with Michele Bergami, Olek
 
 My duties included refining a research question, conducting exploratory data analysis, and using pandas for data cleaning. My work is summarised in the file CIVICA_def, that provided the base for the implementation of the k-means clustering analysis.
 
+## Chopsticks Bot
