@@ -17,8 +17,7 @@ We used visualisations, linear regression and SARIMA models.
 
 My technical contribution was mainly on the creation of interactive plots, done with plotly.
 
-
-
+\n
 ## University Timetable
 This was a group project for ST449 - Artificial Intelligence at LSE. I worked in collaboration with Michele Bergami, Tweesha Dewan and Reuben Mathew.
 
