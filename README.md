@@ -18,3 +18,10 @@ We used visualisations, linear regression and SARIMA models.
 My technical contribution was mainly on the creation of interactive plots, done with plotly.
 
 ## University timetable
+This was a group project for ST449 - Artificial Intelligence at LSE. I worked in collaboration with Michele Bergami, Tweesha Dewan and Reuben Mathew.
+
+This project explores an approach to solve the university timetable planning problem through constraint-based reasoning. The timetabling problem is set as a constraint satisfaction model, and various techniques like constraint propagation and backtracking are implemented. We worked on a dataset from the University of Brasilia is employed to define variables and constraints.
+
+My technical contributions on this project were on the construction and implentation of the CP-solver algorithm.
+
+## 
