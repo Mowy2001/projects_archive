@@ -81,6 +81,14 @@ A cross-country analysis has been conducted, comparing the model's predictions o
 
 Empirical Section: 
 I used pandas to clean data and to perform exploratory analysis, seaborn and matplotlib to visualise distributions and correlations of different macroeconomic variables across 7 countries. Then, I used Stata to investigate an empirical validation of the Taylor Rule.
+
 <br>
 
 ## Tidy Dataset
+This was a group data cleaning project for 30607 - Foundations of Data Science at Bocconi University. I worked with Haralambos Alexandre Keusseoglou, Giovanni Scarpato and Federica Kulka.
+
+We used pandas to create a unique tidy dataset containing meteorological data collected by 11 sensors located in different part of Venice. 
+
+The most important issues were that different datasets contained the same exact measurement and that labels were not good for practical investigation of data. We fixed these problems and we aggregated hourly the observations recorded every 5 minutes, paying attention to not alter the way in which some of these measurement were taken, for instance, if the height of the water was the average across the previous 5 minutes, to hourly aggregate we would take the mean, analogously we have been consistent for maximum values or sums.
+
+In addition, we produced a professional documentation of our work, where we explained what the data were about and how and why we decided to treat data in a specific way.
