@@ -63,7 +63,24 @@ I used an alpha-beta pruning algorithm: this checks if it is possible to win in 
 <br>
 
 ## Driving Test Centre
+This was an individual project for ST447 - Statistical Methods and Data Analysis at LSE.
+
+The aim of this project is to help an hypothetical friend to decide where to take the practical car test. They must choose between the nearest test centre to their home and the nearest test centre to the London School of Economics. I needed to answer the following questions:
+1. What is the expected passing rate at the nearest test centre to their home?
+2. What is the expected passing rate at the nearest test centre to the LSE?
+3. Of these two locations, where should our friend take the test? Is there any evidence to (statistically) support this suggestion?
+
+I used Wald tests and logistic regression.
+
+<br>
 
 ## Behavioral Macroeconomics
+This is my Bachelor's Final Work. The study focuses on the empirical validation across multiple economies of the behavioral macroeconomic model proposed by Paul De Grauwe (Lectures on Behavioral Macroeconomics, 2012). This model, known for its incorporation of bounded rationality and "animal spirits", provides a unique perspective on economic fluctuations. However, the extent to which its predictions align with real-world data across different economic contexts remains unclear. The main research question of this survey is: How well do the predictions of De Grauwe's model align with the empirical data from various economies?
+
+A cross-country analysis has been conducted, comparing the model's predictions on the non-normal distributions of macroeconomic variables with actual data, and examining the correlation between output gap, inflation, interest rate and animal spirits, measured by the market sentiment index. The findings reveal that the distributions of key macroeconomic variables deviate from normality in several instances, partially confirming De Grauwe's model. However, the normality assumption could not be universally rejected, indicating that the model's predictions may not hold consistently across different economic contexts. Furthermore, while a positive correlation between the output gap and market sentiment index was observed, the correlation was weaker than the one obtained by the simulations of De Grauwe's model, indicating a potential overestimation of the influence of these variables in the model.
+
+Empirical Section: 
+I used pandas to clean data and to perform exploratory analysis, seaborn and matplotlib to visualise distributions and correlations of different macroeconomic variables across 7 countries. Then, I used Stata to investigate an empirical validation of the Taylor Rule.
+<br>
 
 ## Tidy Dataset
