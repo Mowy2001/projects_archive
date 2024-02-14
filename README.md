@@ -59,3 +59,11 @@ I developed a bot on Python for the children game "chopsticks." The rules of the
 4. A player wins a game by busting both of their opponent’s hands.
 
 I used an alpha-beta pruning algorithm: this checks if it is possible to win in the following 7 moves, with any possible action of the opponent (assumed to behave in the same way). If a win is found, the bot chooses immediately (pruning) the relevant move, if not it continues to search. An arbitrary move is selected for the first stages to reduce the game time.
+
+<br>
+
+## Driving Test Centre
+
+## Behavioral Macroeconomics
+
+## Tidy Dataset
