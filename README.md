@@ -18,6 +18,7 @@ We used visualisations, linear regression and SARIMA models.
 My technical contribution was mainly on the creation of interactive plots, done with plotly.
 
 <br>
+
 ## University Timetable
 This was a group project for ST449 - Artificial Intelligence at LSE. I worked in collaboration with Michele Bergami, Tweesha Dewan and Reuben Mathew.
 
@@ -26,6 +27,7 @@ This project explores an approach to solve the university timetable planning pro
 My technical contributions on this project were on the construction and implentation of the CP-solver algorithm.
 
 <br>
+
 ## Telecom Churn + Coordinate Descent
 This was a group project for ST443 - Machine Learning and Data Mining at LSE. I worked in collaboration with Michele Bergami, Elisabetta Sanasi, Omar Almutoteh and Giorgi Kvinikadze.
 
@@ -34,6 +36,7 @@ We assessed the performance of kNN, LDA, QDA, and Logistic Regression on a datas
 My technical contributions on this project are mainly on the second part of the project. More specifically, I worked on the construction and implementation of the Lasso and Elastic Net Coordinate Descent algorithms and the different scenarios on which we tested our code.
 
 <br>
+
 ## CIVICA Research Collaborative Hackathon: Europe Revisited
 ### Mining Political Party Manifestos for Patterns of European Support
 In this 24 hours hackathon, I worked in collaboration with Michele Bergami, Oleksandra Pashkina (Sciences Po) and Naman Kapoor (Sciences Po).
@@ -43,6 +46,7 @@ We applied k-means clustering on data about political party manifestos. We focus
 My duties included refining a research question, conducting exploratory data analysis, and using pandas for data cleaning. My work is summarised in the file CIVICA_def, that provided the base for the implementation of the k-means clustering analysis.
 
 <br>
+
 ## Chopsticks Bot
 This was an individual project for ST449 - Artificial Intelligence at LSE.
 
