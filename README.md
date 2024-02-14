@@ -1,7 +1,7 @@
 # projects_archive
-Coding projects I have completed until today
+Coding projects I have completed until today :)
 
-Here a description for every project.
+Here a description for every project, from the most to the least recent.
 
 ## Transport in London
 This was a group project for ST445 - Managing and Visualising Data at LSE. I worked in collaboration with Michele Bergami and Adleena Shakir.
@@ -51,4 +51,4 @@ I developed a bot on Python for the children game "chopsticks." The rules of the
    Split: Use one of her unbusted hand that has 4 or 5 fingers sticking out to tap her own other busted hand. After this action, the originally unbusted hand has ⌈x/2⌉ fingers sticking out and the originally busted hand becomes unbusted and sticks out ⌊x/2⌋ fingers (x is 4 or 5).
 4. A player wins a game by busting both of their opponent’s hands.
 
-I used an alpha-beta pruning algorithm: this checks if it is possible to win in the following 8 moves, with any possible action of the opponent. If a win is found, the bot chooses immediately the relevant move, if not it continues to search. An arbitrary move is selected for the first stages to reduce the game time.
+I used an alpha-beta pruning algorithm: this checks if it is possible to win in the following 7 moves, with any possible action of the opponent (assumed to behave in the same way). If a win is found, the bot chooses immediately (pruning) the relevant move, if not it continues to search. An arbitrary move is selected for the first stages to reduce the game time.
