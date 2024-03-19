@@ -3,6 +3,15 @@ Coding projects I have completed until today :)
 
 Here a description for every project, from the most to the least recent.
 
+## Statistics Practitioners' Challenge
+This was a group project for the LSE Statistics Practitioners' Challenge in collaboration of an important insurance company. I worked in collaboration with Michele Bergami, Elisabetta Sanasi, Barath Raaj and Anushka Agrawal.
+We analysed data about an insurance company, the main issue was related to imbalanced data. We explored the python library resreg, containing the possibility to implement several resampling techniques, from random undersampling to SMOTER and WERCS.
+At the same time we employed different predictive models: Poisson Regression, Random Forests, XGBoost and REBAGG.
+
+My technical contribution was mainly on the creation and implementation of the resampling techniques and on the selection of the most interesting combination of resampling techniques and predictive models. The notebook in the folder was entirely curated by me and it draws from https://github.com/jafetgado/resreg/tree/master
+
+<br>
+
 ## Transport in London
 This was a group project for ST445 - Managing and Visualising Data at LSE. I worked in collaboration with Michele Bergami and Adleena Shakir.
 We analysed some datasets about public transportation in London and we aimed at answering the following questions:
