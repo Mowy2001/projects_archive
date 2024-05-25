@@ -3,6 +3,24 @@ Coding projects I have completed until today :)
 
 Here a description for every project, from the most to the least recent.
 
+## Football players' decisions
+This was a group project for ST455 - Reinforcement Learning at LSE. I worked in collaboration with Michele Bergami and Omar Almutoteh.
+
+In this project we used Deep Reinforcement Learning (DRL) to develop a Decision Value (DV) model to evaluate the decisions taken by football players considering the state in which they happen. Inspired by Pulis (2023), our solution aims to emulate and extend his DV approach. Our findings indicate that while DVs do not consistently correlate with team performance or match outcomes, they provide valuable insights into individual decision-making. The model showed promise in identifying players making better decisions, particularly in specific scenarios.
+
+My contribution for this project was mainly about outlining the research question, investigating the literature, finding the appropriate data and the relevant libraries to be used. Also, I designed the frameworks on which we evaluated the performance of our results and I curated the presentation of the final notebook.
+
+<br>
+
+## Speech Emotion Recognition
+This was a group project for ST456 - Deep Learning at LSE. I worked in collaboration with Michele Bergami, Elisabetta Sanasi and Lucy Malabar.
+
+This projected explores the realm of speech emotion recognition (SER), investigating the influence of data augmentation, model architectures, and dataset characteristics on classification accuracy. Our study introduces CNN and parallel CNN-RNN models for SER, examining their performance across various datasets and augmentation techniques. Our results demonstrate that data augmentation techniques, particularly pitch manipulation, significantly improve classification accuracy, particularly within the CNN framework. Also, we used Grad-CAM to provide insights into the models’ decision-making processes, revealing patterns in audio features associated with different emotions. Finally, we investigated the impact of gender bias and emotion intensity on model performance, revealing that models are more accurate under conditions of stronger emotino intensity and when the speaker is female.
+
+My technical contribution was mainly on the definition of the research question and the general outline of the project. In addition, in collaboration of my groupmates, I researched the appropriate datasets, I worked on the interpretation of the Grad-CAM results and I curated the final report.
+
+<br>
+
 ## Statistics Practitioners' Challenge
 This was a group project for the LSE Statistics Practitioners' Challenge in collaboration of an important insurance company. I worked in collaboration with Michele Bergami, Elisabetta Sanasi, Barath Raaj and Anushka Agrawal.
 We analysed data about an insurance company, the main issue was related to imbalanced data. We explored the python library resreg, containing the possibility to implement several resampling techniques, from random undersampling to SMOTER and WERCS.
